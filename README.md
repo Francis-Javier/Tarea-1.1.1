@@ -35,4 +35,7 @@ print(nombre)
 
 <!-- Esto es un comentario -->
 > Esto es una citación  
-![imagen oficial del IES Albarregas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAADtCv215uOtq7dmHqw06YMUWSUc67hoY2nkeSYPJOCYCvpb7QWP6MXg&s=10)  
+![imagen oficial del IES Albarregas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAADtCv215uOtq7dmHqw06YMUWSUc67hoY2nkeSYPJOCYCvpb7QWP6MXg&s=10)
+
+imagen de la carpeta imagenes del repositorio  
+![Perro](imagenes/images.jpg)
